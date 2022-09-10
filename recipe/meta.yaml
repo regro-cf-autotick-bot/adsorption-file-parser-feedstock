@@ -12,12 +12,13 @@ source:
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 0
+  number: 1
 
 requirements:
   host:
     - pip
     - python >=3.6
+    - setuptools_scm
   run:
     - python >=3.6
     - openpyxl
