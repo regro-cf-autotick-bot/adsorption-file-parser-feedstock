@@ -1,11 +1,11 @@
-About adsorption-file-parser
-============================
+About adsorption-file-parser-feedstock
+======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/adsorption-file-parser-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/AIF-development-team/adsorption-file-parser
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/adsorption-file-parser-feedstock/blob/main/LICENSE.txt)
 
 Summary: Collection of parsers for (nearly) all commercial adsorption instrumentation.
 
