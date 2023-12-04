@@ -1,5 +1,5 @@
 {% set name = "adsorption-file-parser" %}
-{% set version = "0.2.6" %}
+{% set version = "0.2.8" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/adsorption_file_parser-{{ version }}.tar.gz
-  sha256: 8510f8019eb3a2278547b71c5de9203721ebf0f9556ac8c8f01e896e57948364
+  sha256: e2bd3d0e626d2056753ecf405af68c66751a42f4199cd3fb92cc15224d3e40ac
 
 build:
   noarch: python
